@@ -1,0 +1,24 @@
+This code is provided for educational and personal use only.
+It is not affiliated with or endorsed by Andrews McMeel Syndication,
+the publisher of Garfield comics, and should not be used for commercial
+purposes without obtaining permission from the copyright owner.
+
+By using this code, you agree to comply with the terms of service
+of Andrews McMeel Syndication and any applicable laws, including
+but not limited to copyright laws and data protection laws.
+
+If you want to make one copy of a Garfield comic for personal use,
+such as sending it to a friend or keeping it for your own enjoyment,
+you do not need permission from Andrews McMeel Syndication, as long
+as the copy is the same size as the original and is not altered or
+enlarged, and is not sold or distributed outside of a personal context.
+
+The author of this code assumes no responsibility or liability
+for any damages or losses resulting from the use of this code,
+and makes no warranties or representations regarding the accuracy,
+completeness, or reliability of any data obtained through the use
+of this code.
+
+Use of this code is at your own risk, and you are solely responsible
+for ensuring that your use of this code complies with all applicable
+laws and regulations.
